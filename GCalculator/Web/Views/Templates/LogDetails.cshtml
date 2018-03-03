@@ -1,0 +1,15 @@
+﻿<div class="container">
+    <div class="modal-header">
+        <h5 class="modal-title">
+            Details for {{logDescr.name}} from {{logDescr.date |date:'dd.MM.yyyy HH:mm:ss'}}
+        </h5>
+    </div>
+    <div class="modal-body">
+        <div ui-grid="gridOptions" ui-grid-auto-resize
+             style="height: {{tableHeight + 'px'}};"></div>    
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="ok()">Ok</button>    
+    </div>
+    
+</div>

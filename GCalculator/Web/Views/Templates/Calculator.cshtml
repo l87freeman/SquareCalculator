@@ -1,0 +1,68 @@
+﻿<div class="container" ng-controller="calculatorController">
+    <div class="container">
+        <form name="pointsForm" id="pointsForm" layout="row">
+            <div flex="20">
+                <md-input-container>
+                    <md-tooltip md-direction='bottom'>Add new point</md-tooltip>
+                    <button type='button' class='btn btn-success' ng-click='addNew()'><i class='fas fa-plus-square'></i></button>
+                </md-input-container>
+
+                <md-input-container>
+                    <md-tooltip md-direction='bottom'>Remove point</md-tooltip>
+                    <button type='button' class='btn btn-danger' ng-click='remove()' ng-disabled='ifCanDelete()'><i class='fas fa-minus-square'></i></button>
+                </md-input-container>
+                <md-input-container>
+                    <md-tooltip md-direction='bottom'>Calculate squre</md-tooltip>
+                    <button type="button" class="btn btn-info" ng-click="calculate()" ng-disabled="ifCanCalculate() || pointsForm.$invalid"><i class='fas fa-calculator'></i></button>
+                </md-input-container>
+            </div>
+            <div flex="40">
+                <div layout='row' ng-repeat="point in pointsArray track by $index">
+                    <div name="point_{{$index}}">
+                        <md-input-container>
+                            <label>Enter x</label>
+                            <input type='text' name="point_x_{{$index}}" ng-model="pointsArray[$index].x" change-on-blur="change($index, 'x')" required ng-pattern='/^[1-9][0-9]*([.,][0-9]{1,2})?$/'>
+                            <div ng-messages="pointsForm['point_x_' + $index].$error">
+                                <div ng-message='required'>x cordinate is required</div>
+                                <div ng-message='pattern'>Valid numbers like: 10; 10.85; 10,85</div>
+                            </div>
+                        </md-input-container>
+                        <md-input-container>
+                            <label>Enter y</label>
+                            <input type="text" name="point_y_{{$index}}" ng-model="pointsArray[$index].y" change-on-blur="change($index, 'y')" required ng-pattern='/^[1-9][0-9]*([.,][0-9]{1,2})?$/'>
+                            <div ng-messages="pointsForm['point_y_' + $index].$error">
+                                <div ng-message='required'>y cordinate is required</div>
+                                <div ng-message='pattern'>Valid numbers like: 10; 10.85; 10,85</div>
+                            </div>
+                        </md-input-container>
+                    </div>
+                </div>
+            </div>
+            <div flex="20">
+                <div layout='row' ng-if="squareObj.square || squareObj.points">
+                    <md-input-container ng-if="!squareObj.isValidationPassed">
+                        <md-tooltip md-direction='bottom'>Result validation not passed</md-tooltip>
+                        <button type='button' class='btn btn-danger'><i class='far fa-exclamation'></i></button>
+                    </md-input-container>
+                    <md-input-container ng-if="squareObj.isValidationPassed">
+                        <md-tooltip md-direction='bottom'>Result validation passed</md-tooltip>
+                        <button type='button' class='btn btn-success'><i class='fas fa-check'></i></button>
+                    </md-input-container>
+                    <div flex="5"></div>
+                    <md-input-container>
+                        <label>Square</label>
+                        <input type="text" name="sqaure" ng-model="squareObj.square" ng-disabled="true">
+                    </md-input-container>
+                </div>
+                <div layout='row' ng-if="squareObj.square || squareObj.points">
+                    <canvas></canvas>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div id="bottom"></div>
+</div>
+
+
+

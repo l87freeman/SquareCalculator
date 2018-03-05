@@ -39,7 +39,7 @@ namespace Services.Extentions
                     continue;
                 }
 
-                if (minPoint.X > item.X && minPoint.Y > item.Y)
+                if (minPoint.X > item.X/* && minPoint.Y > item.Y*/)
                     minPoint = item;
             }
             return minPoint;

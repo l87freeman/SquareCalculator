@@ -1,0 +1,136 @@
+Info | 05.03.2018 10:37:32 | user on a calculation page
+Info | 05.03.2018 10:37:33 | user add a new point
+Info | 05.03.2018 10:37:33 | user add a new point
+Info | 05.03.2018 10:37:34 | user add a new point
+Info | 05.03.2018 10:37:34 | user add a new point
+Warn | 05.03.2018 10:37:41 | user change value of x to 0, with error: pattern
+Info | 05.03.2018 10:37:45 | user change value of x to 20
+Info | 05.03.2018 10:37:45 | user change value of y to 30
+Info | 05.03.2018 10:37:47 | user change value of x to 30
+Info | 05.03.2018 10:37:48 | user change value of y to 20
+Info | 05.03.2018 10:37:50 | user change value of x to 40
+Info | 05.03.2018 10:37:50 | user change value of y to 50
+Info | 05.03.2018 10:37:52 | user change value of x to 70
+Info | 05.03.2018 10:37:54 | user change value of y to 100
+Info | 05.03.2018 10:37:54 | user add a new point
+Info | 05.03.2018 10:37:55 | user add a new point
+Info | 05.03.2018 10:37:57 | user change value of x to 120
+Info | 05.03.2018 10:38:00 | user change value of y to 140
+Info | 05.03.2018 10:38:01 | user change value of x to 100
+Info | 05.03.2018 10:38:03 | user change value of y to 100
+Info | 05.03.2018 10:38:03 | square calculation begin
+Info | 05.03.2018 10:38:03 | square calculation enden, calculated square is: 250
+Info | 05.03.2018 10:41:35 | user remove a point
+Info | 05.03.2018 10:41:35 | user remove a point
+Info | 05.03.2018 10:41:36 | user remove a point
+Info | 05.03.2018 10:41:36 | user remove a point
+Info | 05.03.2018 10:41:36 | user remove a point
+Info | 05.03.2018 10:41:43 | user change value of x to 3
+Info | 05.03.2018 10:41:45 | user change value of y to 4
+Info | 05.03.2018 10:41:45 | user add a new point
+Info | 05.03.2018 10:41:53 | user change value of x to 5
+Info | 05.03.2018 10:41:55 | user change value of y to 11
+Info | 05.03.2018 10:41:55 | user add a new point
+Info | 05.03.2018 10:41:59 | user change value of x to 12
+Info | 05.03.2018 10:42:01 | user change value of y to 8
+Info | 05.03.2018 10:42:02 | user add a new point
+Info | 05.03.2018 10:42:07 | user change value of x to 9
+Info | 05.03.2018 10:42:09 | user change value of y to 5
+Info | 05.03.2018 10:42:09 | user add a new point
+Info | 05.03.2018 10:42:13 | user change value of x to 5
+Info | 05.03.2018 10:42:16 | user change value of y to 6
+Info | 05.03.2018 10:42:16 | square calculation begin
+Info | 05.03.2018 10:42:16 | square calculation enden, calculated square is: 30
+Info | 05.03.2018 10:42:43 | user change value of x to 1
+Info | 05.03.2018 10:42:43 | user change value of y to 1
+Info | 05.03.2018 10:42:45 | user change value of x to 1
+Info | 05.03.2018 10:42:46 | user change value of y to 3
+Info | 05.03.2018 10:42:46 | user change value of x to 2
+Info | 05.03.2018 10:42:48 | user change value of y to 4
+Info | 05.03.2018 10:42:49 | user change value of x to 3
+Info | 05.03.2018 10:42:50 | user change value of y to 3
+Info | 05.03.2018 10:42:50 | user change value of x to 3
+Info | 05.03.2018 10:42:52 | user change value of y to 1
+Info | 05.03.2018 10:42:52 | square calculation begin
+Info | 05.03.2018 10:42:52 | square calculation enden, calculated square is: 5
+Info | 05.03.2018 10:47:57 | user leave the calculation page
+Info | 05.03.2018 10:48:20 | user on a calculation page
+Info | 05.03.2018 10:48:22 | user leave the calculation page
+Info | 05.03.2018 10:48:28 | user on a calculation page
+Info | 05.03.2018 10:48:29 | user add a new point
+Info | 05.03.2018 10:48:29 | user add a new point
+Info | 05.03.2018 10:48:31 | user add a new point
+Info | 05.03.2018 10:48:33 | user remove a point
+Info | 05.03.2018 10:48:33 | user remove a point
+Info | 05.03.2018 10:54:11 | user change value of x to 1
+Info | 05.03.2018 10:54:14 | user change value of y to 1
+Info | 05.03.2018 10:54:14 | user add a new point
+Info | 05.03.2018 10:54:14 | user add a new point
+Info | 05.03.2018 10:54:14 | user add a new point
+Info | 05.03.2018 10:54:16 | user add a new point
+Info | 05.03.2018 10:54:20 | user change value of x to 1
+Info | 05.03.2018 10:54:20 | user change value of y to 3
+Info | 05.03.2018 10:54:22 | user change value of x to 2
+Info | 05.03.2018 10:54:25 | user change value of y to 4
+Info | 05.03.2018 10:54:26 | user change value of x to 3
+Info | 05.03.2018 10:54:29 | user change value of y to 3
+Info | 05.03.2018 10:54:29 | user add a new point
+Info | 05.03.2018 10:54:32 | user remove a point
+Info | 05.03.2018 10:54:37 | user change value of x to 3
+Info | 05.03.2018 10:54:38 | user change value of y to 1
+Info | 05.03.2018 10:54:40 | square calculation begin
+Info | 05.03.2018 10:54:40 | square calculation enden, calculated square is: 5
+Info | 05.03.2018 10:54:43 | user remove a point
+Info | 05.03.2018 10:54:44 | user remove a point
+Info | 05.03.2018 10:54:44 | user remove a point
+Info | 05.03.2018 10:54:44 | user remove a point
+Info | 05.03.2018 10:54:48 | user add a new point
+Info | 05.03.2018 10:54:48 | user add a new point
+Info | 05.03.2018 10:54:49 | user add a new point
+Info | 05.03.2018 10:54:50 | user add a new point
+Info | 05.03.2018 10:54:55 | user change value of x to 1
+Info | 05.03.2018 10:54:56 | user change value of y to 3
+Info | 05.03.2018 10:54:58 | user change value of x to 2
+Info | 05.03.2018 10:55:01 | user change value of y to 4
+Info | 05.03.2018 10:55:02 | user change value of x to 3
+Info | 05.03.2018 10:55:04 | user change value of y to 3
+Info | 05.03.2018 10:55:06 | user change value of x to 3
+Info | 05.03.2018 10:55:08 | user change value of y to 1
+Info | 05.03.2018 10:55:08 | square calculation begin
+Info | 05.03.2018 10:55:08 | square calculation enden, calculated square is: 5
+Info | 05.03.2018 10:55:11 | square calculation begin
+Info | 05.03.2018 10:55:11 | square calculation enden, calculated square is: 5
+Info | 05.03.2018 10:55:40 | square calculation begin
+Info | 05.03.2018 10:55:40 | square calculation enden, calculated square is: 5
+Info | 05.03.2018 10:56:04 | user remove a point
+Info | 05.03.2018 10:56:06 | square calculation begin
+Info | 05.03.2018 10:56:06 | square calculation enden, calculated square is: 3
+Info | 05.03.2018 10:56:16 | user change value of x to 2
+Info | 05.03.2018 10:56:19 | user change value of x to 3
+Info | 05.03.2018 10:56:19 | user change value of y to 1
+Info | 05.03.2018 10:56:25 | user change value of y to 3
+Info | 05.03.2018 10:56:25 | user add a new point
+Info | 05.03.2018 10:56:28 | user change value of x to 3
+Info | 05.03.2018 10:56:30 | user change value of y to 1
+Info | 05.03.2018 10:56:30 | square calculation begin
+Info | 05.03.2018 10:56:30 | square calculation enden, calculated square is: 2
+Info | 05.03.2018 11:06:40 | user change value of y to 4
+Info | 05.03.2018 11:06:46 | user change value of y to 6
+Info | 05.03.2018 11:06:48 | user change value of x to 1
+Info | 05.03.2018 11:06:51 | user change value of y to 3
+Info | 05.03.2018 11:06:51 | square calculation begin
+Info | 05.03.2018 11:06:51 | square calculation enden, calculated square is: 2
+Info | 05.03.2018 11:13:34 | square calculation begin
+Info | 05.03.2018 11:13:52 | square calculation enden, calculated square is: 5.5
+Info | 05.03.2018 11:17:23 | user change value of y to 4
+Info | 05.03.2018 11:17:27 | user change value of x to 25
+Info | 05.03.2018 11:17:29 | user change value of y to 11
+Info | 05.03.2018 11:17:32 | user change value of x to 5
+Info | 05.03.2018 11:17:36 | user change value of x to 12
+Info | 05.03.2018 11:17:37 | user change value of y to 8
+Info | 05.03.2018 11:17:42 | user change value of x to 9
+Info | 05.03.2018 11:17:43 | user change value of y to 5
+Info | 05.03.2018 11:17:50 | user change value of x to 5
+Info | 05.03.2018 11:17:52 | user change value of y to 6
+Info | 05.03.2018 11:17:52 | square calculation begin
+Info | 05.03.2018 11:17:56 | square calculation enden, calculated square is: 30

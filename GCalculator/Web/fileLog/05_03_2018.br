@@ -134,3 +134,24 @@ Info | 05.03.2018 11:17:50 | user change value of x to 5
 Info | 05.03.2018 11:17:52 | user change value of y to 6
 Info | 05.03.2018 11:17:52 | square calculation begin
 Info | 05.03.2018 11:17:56 | square calculation enden, calculated square is: 30
+Info | 05.03.2018 12:17:38 | user on a calculation page
+Info | 05.03.2018 12:17:39 | user add a new point
+Info | 05.03.2018 12:17:39 | user add a new point
+Info | 05.03.2018 12:17:39 | user add a new point
+Info | 05.03.2018 12:17:41 | user change value of x to 1
+Info | 05.03.2018 12:17:42 | user change value of y to 2
+Info | 05.03.2018 12:17:43 | user change value of x to 1
+Info | 05.03.2018 12:17:43 | user change value of y to 3
+Info | 05.03.2018 12:17:44 | user change value of x to 1
+Info | 05.03.2018 12:17:48 | user change value of y to 5
+Info | 05.03.2018 12:17:48 | user add a new point
+Info | 05.03.2018 12:17:49 | user add a new point
+Info | 05.03.2018 12:17:51 | user change value of x to 2
+Info | 05.03.2018 12:17:52 | user change value of y to 4
+Info | 05.03.2018 12:17:53 | user change value of x to 2
+Info | 05.03.2018 12:17:56 | user change value of y to 8
+Info | 05.03.2018 12:17:56 | user add a new point
+Info | 05.03.2018 12:17:59 | user change value of x to 3
+Info | 05.03.2018 12:18:02 | user change value of y to 1
+Info | 05.03.2018 12:18:02 | square calculation begin
+Info | 05.03.2018 12:18:02 | square calculation enden, calculated square is: 7
